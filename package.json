@@ -1,0 +1,26 @@
+{
+  "name": "jswing",
+  "version": "1.0.0",
+  "description": "Bot JS",
+  "main": "main.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TechMlW",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "ascii-table": "^0.0.9",
+    "discord-api-types": "^0.24.0",
+    "discord.js": "^13.3.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.13",
+    "simply-eco": "^0.0.85"
+  },
+  "devDependencies": {
+    "discord-canvas": "^1.4.1",
+    "eslint": "^8.2.0"
+  }
+}
